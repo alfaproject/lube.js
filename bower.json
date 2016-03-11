@@ -1,0 +1,20 @@
+{
+  "name": "lube.js",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Joao Dias <mail@joaodias.eu>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alfaproject/lube.js",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
